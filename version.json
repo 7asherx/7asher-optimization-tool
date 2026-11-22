@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
-  "notes": "إصلاح نتائج \"تطبيق الكل\": المهام غير الموجودة في جهازك أو Defender غير المفعّل لم تعد تُحسب كفشل. + Apply all: tasks that don't exist on your PC, or Defender being inactive, are no longer reported as failures.",
+  "version": "1.0.10",
+  "notes": "بعد \"تطبيق الكل\" تتحدث صفحة التحسينات تلقائياً بدون الخروج منها. + The Tweaks page now refreshes automatically after Apply all, no need to leave and re-enter the tab.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

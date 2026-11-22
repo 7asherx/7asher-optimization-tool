@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "notes": "شريط بحث في صندوق الأدوات، وتحسين قياس الأداء (قبل/بعد). + Toolbox search and improved benchmark.",
+  "version": "1.0.2",
+  "notes": "تحديد متعدد بالبطاقة الكاملة (حذف التطبيقات، المبرمجات، خطط الطاقة، الخدمات)، زر تطبيق كل التحسينات مع تحذير، شريط تقدم للتحميل، Autoruns الكلاسيكي، خدمات إضافية، أدوات إصلاح جديدة، وحركات أجمل. + Multi-select everywhere, Apply all tweaks, download progress bar with multiple fallback methods, classic Autoruns, more services, new fix tools, premium animations.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

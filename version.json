@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "notes": "7asherAI: مساعد ذكي مجاني يفحص التحسينات المطبقة ويقترح إصلاحات بضغطة واحدة (عربي وإنجليزي). زر تطبيق كل التحسينات للنسخة المدفوعة فقط. + 7asherAI free assistant checks your applied tweaks and offers one-click fixes (Arabic & English). Apply-all is premium only.",
+  "version": "1.0.4",
+  "notes": "7asherAI الآن يقترح إعدادات لتحسين الأداء حسب هدفك (فريمات، بنق...) وتطبقها بضغطة واحدة، وهو للنسخة المدفوعة فقط. + 7asherAI now suggests performance settings for your goals and applies them in one click. Premium only.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

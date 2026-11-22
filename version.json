@@ -1,5 +1,5 @@
 {
-  "version": "1.0.12",
-  "notes": "قسم جديد: Overclock (رفع الأداء) - مراقبة مباشرة للكرت والمعالج، حد الطاقة وتردد الكرت، إعدادات رفع المعالج، تثبيت MSI Afterburner، مع ألوان خطر (أخضر/أصفر/أحمر) وتحذيرات. + New Overclock section: live GPU/CPU monitor, power limit and clock caps, CPU boost control, MSI Afterburner helper, with green/yellow/red risk theme and warnings.",
+  "version": "1.0.13",
+  "notes": "تحسينات داخلية وإخفاء قسم Overclock مؤقتاً. + Minor update; Overclock section hidden for now.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "notes": "إصلاح: أيقونات القفل في القائمة اليسرى تتحول إلى تاج فوراً بعد التفعيل بدون إعادة تشغيل البرنامج. + Fix: sidebar lock icons turn into crowns immediately after activation, no restart needed.",
+  "version": "1.0.6",
+  "notes": "إصلاح زر تطبيق الكل: يطبّق فقط ما لم يُطبَّق بعد، ويعيد المحاولة تلقائياً لما فشل ويخبرك بما تعذر. + Fix: Apply all now applies only what is not applied yet, retries failures and reports what could not be applied.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

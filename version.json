@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "notes": "إصلاح خطأ \"Missing ')'\" في زر تطبيق الكل: تحسينات متقدمة (Razer / Logitech / Store) كانت تعطّل الدفعة كلها. الآن كل تحسين يعمل بشكل منفصل. + Fix: Apply all no longer fails with a syntax error; each tweak now runs isolated.",
+  "version": "1.0.8",
+  "notes": "تحسين التأكد من التحسينات: تحسينات الطاقة والمعالج تُقرأ الآن مباشرة من ويندوز، والتحسينات التي تحتاج إعادة تشغيل تظهر كـ \"مطبّقة وغير مؤكدة\" بدل \"فشلت\". + More accurate tweak verification (power/CPU tweaks read from Windows directly); restart-needed tweaks no longer reported as failed.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

@@ -1,5 +1,5 @@
 {
-  "version": "1.0.11",
-  "notes": "إضافة \"تحديد الكل\" في صفحة التنظيف، وتحويل مربعات التحديد في كل التطبيق إلى دوائر أنظف. + Select all in the Cleaner, and all checkboxes across the app are now clean circles.",
+  "version": "1.0.12",
+  "notes": "قسم جديد: Overclock (رفع الأداء) - مراقبة مباشرة للكرت والمعالج، حد الطاقة وتردد الكرت، إعدادات رفع المعالج، تثبيت MSI Afterburner، مع ألوان خطر (أخضر/أصفر/أحمر) وتحذيرات. + New Overclock section: live GPU/CPU monitor, power limit and clock caps, CPU boost control, MSI Afterburner helper, with green/yellow/red risk theme and warnings.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "notes": "تحسين التأكد من التحسينات: تحسينات الطاقة والمعالج تُقرأ الآن مباشرة من ويندوز، والتحسينات التي تحتاج إعادة تشغيل تظهر كـ \"مطبّقة وغير مؤكدة\" بدل \"فشلت\". + More accurate tweak verification (power/CPU tweaks read from Windows directly); restart-needed tweaks no longer reported as failed.",
+  "version": "1.0.9",
+  "notes": "إصلاح نتائج \"تطبيق الكل\": المهام غير الموجودة في جهازك أو Defender غير المفعّل لم تعد تُحسب كفشل. + Apply all: tasks that don't exist on your PC, or Defender being inactive, are no longer reported as failures.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

@@ -1,5 +1,5 @@
 {
-  "version": "1.0.10",
-  "notes": "بعد \"تطبيق الكل\" تتحدث صفحة التحسينات تلقائياً بدون الخروج منها. + The Tweaks page now refreshes automatically after Apply all, no need to leave and re-enter the tab.",
+  "version": "1.0.11",
+  "notes": "إضافة \"تحديد الكل\" في صفحة التنظيف، وتحويل مربعات التحديد في كل التطبيق إلى دوائر أنظف. + Select all in the Cleaner, and all checkboxes across the app are now clean circles.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

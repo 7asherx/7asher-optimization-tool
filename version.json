@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "notes": "إصلاح زر تطبيق الكل: يطبّق فقط ما لم يُطبَّق بعد، ويعيد المحاولة تلقائياً لما فشل ويخبرك بما تعذر. + Fix: Apply all now applies only what is not applied yet, retries failures and reports what could not be applied.",
+  "version": "1.0.7",
+  "notes": "إصلاح خطأ \"Missing ')'\" في زر تطبيق الكل: تحسينات متقدمة (Razer / Logitech / Store) كانت تعطّل الدفعة كلها. الآن كل تحسين يعمل بشكل منفصل. + Fix: Apply all no longer fails with a syntax error; each tweak now runs isolated.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

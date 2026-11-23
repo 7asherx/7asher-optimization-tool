@@ -1,5 +1,5 @@
 {
-  "version": "1.0.15",
-  "notes": "إزالة 3 تحسينات لشريط المهام، وإظهار الألعاب التي تدعم DLSS / FSR / XeSS في قسم Game Settings. + Removed 3 taskbar tweaks; Game Settings now shows which games support DLSS / FSR / XeSS.",
+  "version": "1.0.16",
+  "notes": "إصلاح قسم Game Settings: يعرض الألعاب المثبتة فقط مع شعاراتها، ويمنع التعديل أثناء تشغيل اللعبة مع زر إغلاق. إزالة 3 تحسينات. + Game Settings fix: only installed games with icons, locked while a game is running (with a Close button); 3 tweaks removed.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

@@ -1,5 +1,5 @@
 {
-  "version": "1.0.25",
-  "notes": "إصلاح ظهور اسم الجهاز في بطاقة المشاركة وتباعد بطاقات الألعاب في تسريع الألعاب. + Fixed PC name overlap on the share card and spacing of app cards in Game Boost.",
+  "version": "1.0.26",
+  "notes": "شعار دائري، نتيجة الأداء تحسب على كل التحسينات، النسخة المجانية 60 تحسين، إصلاح ثغرة أمنية في التفعيل، رسائل أوضح لأداة NVIDIA وتثبيت التطبيقات. + Circular logo, score now counts all tweaks, free tier is 60 tweaks, licensing security fix, clearer NVIDIA and app-install errors.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

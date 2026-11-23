@@ -1,5 +1,5 @@
 {
-  "version": "1.0.13",
-  "notes": "تحسينات داخلية وإخفاء قسم Overclock مؤقتاً. + Minor update; Overclock section hidden for now.",
+  "version": "1.0.14",
+  "notes": "قسم جديد: Game Settings (إعدادات الألعاب) - لكل لعبة شريط من الأداء إلى الجودة مثل تطبيق NVIDIA، وزر أقصى أداء لكل الألعاب. + New Game Settings section: per-game Performance-to-Quality slider like the NVIDIA app, and a Max performance for all games button.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

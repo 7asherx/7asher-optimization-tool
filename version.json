@@ -1,5 +1,5 @@
 {
-  "version": "1.0.14",
-  "notes": "قسم جديد: Game Settings (إعدادات الألعاب) - لكل لعبة شريط من الأداء إلى الجودة مثل تطبيق NVIDIA، وزر أقصى أداء لكل الألعاب. + New Game Settings section: per-game Performance-to-Quality slider like the NVIDIA app, and a Max performance for all games button.",
+  "version": "1.0.15",
+  "notes": "إزالة 3 تحسينات لشريط المهام، وإظهار الألعاب التي تدعم DLSS / FSR / XeSS في قسم Game Settings. + Removed 3 taskbar tweaks; Game Settings now shows which games support DLSS / FSR / XeSS.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

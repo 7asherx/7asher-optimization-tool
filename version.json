@@ -1,5 +1,5 @@
 {
-  "version": "1.0.18",
-  "notes": "إصلاح خطأ المثبّت الجديد وإزالة نافذة التحميل القديمة. + Installer fix (app.asar error) and the grey loading box removed.",
+  "version": "1.0.19",
+  "notes": "إظهار رقم الإصدار في المثبّت واسم الملف. + Version shown in the installer title and the download file name.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

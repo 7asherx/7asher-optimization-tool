@@ -1,5 +1,5 @@
 {
-  "version": "1.0.21",
-  "notes": "إصلاح التحقق من التحديثات ليظهر التحديث فوراً. + Fixed update check so new versions show up immediately.",
+  "version": "1.0.22",
+  "notes": "صفحة برامج بدء التشغيل: التبديل لا يعيد تحميل القائمة ولا يظهر إشعاراً. + Startup page: toggling no longer reloads the list or shows a notification.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

@@ -1,5 +1,5 @@
 {
-  "version": "1.0.17",
-  "notes": "إعدادات الألعاب أصبحت داخل ألعابي مع تعديل إعدادات اللعبة نفسها (Rocket League, WoW, GTA V, LoL, CS2 وألعاب Unreal)، ومثبّت جديد بتصميم احترافي ورسوم متحركة. + Game settings now inside My Games with in-game settings for supported games, and a brand-new animated installer.",
+  "version": "1.0.18",
+  "notes": "إصلاح خطأ المثبّت الجديد وإزالة نافذة التحميل القديمة. + Installer fix (app.asar error) and the grey loading box removed.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

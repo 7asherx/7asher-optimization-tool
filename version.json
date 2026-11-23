@@ -1,5 +1,5 @@
 {
-  "version": "1.0.20",
-  "notes": "إزالة شاشة \"Installing\" وإصلاح ترتيب النصوص العربية مع اسم 7asher. + Removed the Installing splash and fixed Arabic/Latin text order for the 7asher name.",
+  "version": "1.0.21",
+  "notes": "إصلاح التحقق من التحديثات ليظهر التحديث فوراً. + Fixed update check so new versions show up immediately.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

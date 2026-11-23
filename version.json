@@ -1,5 +1,5 @@
 {
-  "version": "1.0.16",
-  "notes": "إصلاح قسم Game Settings: يعرض الألعاب المثبتة فقط مع شعاراتها، ويمنع التعديل أثناء تشغيل اللعبة مع زر إغلاق. إزالة 3 تحسينات. + Game Settings fix: only installed games with icons, locked while a game is running (with a Close button); 3 tweaks removed.",
+  "version": "1.0.17",
+  "notes": "إعدادات الألعاب أصبحت داخل ألعابي مع تعديل إعدادات اللعبة نفسها (Rocket League, WoW, GTA V, LoL, CS2 وألعاب Unreal)، ومثبّت جديد بتصميم احترافي ورسوم متحركة. + Game settings now inside My Games with in-game settings for supported games, and a brand-new animated installer.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

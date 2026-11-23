@@ -1,5 +1,5 @@
 {
-  "version": "1.0.19",
-  "notes": "إظهار رقم الإصدار في المثبّت واسم الملف. + Version shown in the installer title and the download file name.",
+  "version": "1.0.20",
+  "notes": "إزالة شاشة \"Installing\" وإصلاح ترتيب النصوص العربية مع اسم 7asher. + Removed the Installing splash and fixed Arabic/Latin text order for the 7asher name.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

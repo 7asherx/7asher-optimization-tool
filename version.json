@@ -1,5 +1,5 @@
 {
-  "version": "1.0.24",
-  "notes": "تحسين ذكي جديد مع شاشة اكتمال، شارك جهازك (بطاقة PNG)، اختبارات أكثر في قبل وبعد، خدمات: تطبيق الكل، إصلاحات وتحسينات. + New Ultimate Optimization flow, Share My Setup card, more Before & After tests, Services Apply all, fixes.",
+  "version": "1.0.25",
+  "notes": "إصلاح ظهور اسم الجهاز في بطاقة المشاركة وتباعد بطاقات الألعاب في تسريع الألعاب. + Fixed PC name overlap on the share card and spacing of app cards in Game Boost.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

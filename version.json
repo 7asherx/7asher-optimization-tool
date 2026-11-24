@@ -1,5 +1,5 @@
 {
-  "version": "1.0.26",
-  "notes": "شعار دائري، نتيجة الأداء تحسب على كل التحسينات، النسخة المجانية 60 تحسين، إصلاح ثغرة أمنية في التفعيل، رسائل أوضح لأداة NVIDIA وتثبيت التطبيقات. + Circular logo, score now counts all tweaks, free tier is 60 tweaks, licensing security fix, clearer NVIDIA and app-install errors.",
+  "version": "1.0.27",
+  "notes": "إصلاح زر «تطبيق الكل» في الخدمات (يعمل الآن دفعة واحدة)، وإصلاح تحميل Autoruns الذي كان يعلق. + Fixed Services \"Apply all\" (now runs in one pass) and fixed the Autoruns download getting stuck.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

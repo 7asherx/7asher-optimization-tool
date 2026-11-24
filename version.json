@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
-  "notes": "جديد: «مستشار البايوس الذكي» — توصيات مخصّصة لجهازك (ASUS وMSI وGigabyte وASRock) مع مسارات القوائم، وتحقّق بعد إعادة التشغيل، ورمز QR لفتح الدليل على هاتفك وقائمة مهام تُحفظ، مع تصدير PDF. لا يُعتبر أي إعداد مفعّلاً بدون دليل، وكتابة البايوس تبقى معطّلة. + New: Smart BIOS Advisor — hardware-specific recommendations with BIOS menu paths, post-restart verification, a QR code to open your guide on your phone with a saved checklist, and PDF export. Nothing is claimed as enabled without evidence, and BIOS writing stays disabled. Existing customers keep their license.",
+  "version": "1.1.3",
+  "notes": "تحديث 1.1.3: عودة 52 تحسيناً غير ضار (أكثر من 200 تحسين فعّال)، إصلاح نتيجة الأداء في الرئيسية وتوحيد الأعداد، رسائل أوضح عند تعذّر تحميل المحتوى المميز، اختيار البطاقة كاملة بدوائر بدل المربعات، وزر تطبيق أوضح في مستشار البايوس. + Update 1.1.3: 52 harmless tweaks restored (200+ active), dashboard score fixed and counts unified, clearer messages when premium content can't download, whole-card selection with round circles instead of squares, and a clearer apply button in the BIOS Advisor. Existing customers keep their license.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

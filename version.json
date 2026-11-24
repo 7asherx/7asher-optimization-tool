@@ -1,5 +1,5 @@
 {
-  "version": "1.1.3",
-  "notes": "تحديث 1.1.3: عودة 52 تحسيناً غير ضار (أكثر من 200 تحسين فعّال)، إصلاح نتيجة الأداء في الرئيسية وتوحيد الأعداد، رسائل أوضح عند تعذّر تحميل المحتوى المميز، اختيار البطاقة كاملة بدوائر بدل المربعات، وزر تطبيق أوضح في مستشار البايوس. + Update 1.1.3: 52 harmless tweaks restored (200+ active), dashboard score fixed and counts unified, clearer messages when premium content can't download, whole-card selection with round circles instead of squares, and a clearer apply button in the BIOS Advisor. Existing customers keep their license.",
+  "version": "1.1.4",
+  "notes": "تحديث 1.1.4: صفحة «قبل وبعد» تعرض التحسن أو «لا تغيير» فقط بدون أي نتائج سالبة، والشعار أصبح دائرياً في كل التطبيق. + Update 1.1.4: Before & After now shows only improvements or no change (never negative results), and the logo is a circle everywhere. Existing customers keep their license.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

@@ -1,5 +1,5 @@
 {
-  "version": "1.0.27",
-  "notes": "إصلاح زر «تطبيق الكل» في الخدمات (يعمل الآن دفعة واحدة)، وإصلاح تحميل Autoruns الذي كان يعلق. + Fixed Services \"Apply all\" (now runs in one pass) and fixed the Autoruns download getting stuck.",
+  "version": "1.1.0",
+  "notes": "تحديث أمني كبير: حماية الترخيص من الخادم (كود واحد = نسخة ويندوز واحدة)، محتوى بريميوم محمي، إصلاح تطبيق الكل في الخدمات، وتحسينات في الواجهة. عملاؤنا الحاليون يتم ترحيل تفعيلهم تلقائياً. + Major security update: server-side license protection (one code = one Windows installation), protected Premium content, Services apply-all fix and UI polish. Existing customers are migrated automatically.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

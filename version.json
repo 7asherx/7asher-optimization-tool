@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "notes": "جديد: زر «التحسين الذكي» بنقرة واحدة (يحلل جهازك ويطبّق فقط ما يفيد مع نسخة احتياطية وتراجع)، قياس FPS دقيق عبر PresentMon (متوسط، 1% و0.1% الأدنى، التقطّع)، محلل زمن الاستجابة، مراقبة الأجهزة بدقة، فحص الاستقرار، ومراجعة كاملة للتحسينات مع إزالة غير المفيدة. تم إيقاف كتابة البايوس غير المدعومة. + New: one-click Smart Optimize (analyzes your PC, applies only what helps, with backup and undo), PresentMon FPS measurement (avg, 1% / 0.1% lows, stutter), latency analyzer, accurate hardware monitoring, stability check, and a full tweak audit that retires placebo tweaks. Unsupported BIOS writes are disabled. Existing customers keep their license.",
+  "version": "1.1.2",
+  "notes": "جديد: «مستشار البايوس الذكي» — توصيات مخصّصة لجهازك (ASUS وMSI وGigabyte وASRock) مع مسارات القوائم، وتحقّق بعد إعادة التشغيل، ورمز QR لفتح الدليل على هاتفك وقائمة مهام تُحفظ، مع تصدير PDF. لا يُعتبر أي إعداد مفعّلاً بدون دليل، وكتابة البايوس تبقى معطّلة. + New: Smart BIOS Advisor — hardware-specific recommendations with BIOS menu paths, post-restart verification, a QR code to open your guide on your phone with a saved checklist, and PDF export. Nothing is claimed as enabled without evidence, and BIOS writing stays disabled. Existing customers keep their license.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

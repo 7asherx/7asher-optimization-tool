@@ -1,5 +1,5 @@
 {
-  "version": "1.1.6",
-  "notes": "تحديث 1.1.6: واجهة جديدة بالكامل: قائمة رئيسية بمربعات كبيرة بتصميم أزرق هادئ تنقلك إلى كل قسم بدل القائمة الجانبية، مع زر «القائمة» للرجوع من أي صفحة، وأرقام المعالج والرام والكرت الحية في الأعلى. + Update 1.1.6: a new launcher home with big calm blue tiles that take you to each section instead of the sidebar, a Menu button to go back from any page, and live CPU, RAM and GPU readings at the top. Existing customers keep their license.",
+  "version": "1.1.9",
+  "notes": "تحديث 1.1.9: قسم جديد «إعدادات الألعاب»: ابحث عن لعبتك من بين 100 لعبة لتظهر لك أفضل الإعدادات لأعلى فريمات، مع صور الألعاب، ونسخ الإعدادات بنقرة. وصفحة التحسين الذكي الموحدة، وواجهة القائمة الجديدة ومواصفات جهازك في الأعلى. + Update 1.1.9: new Game Settings section: search 100 games and see the recommended settings for max FPS, with game art and one-click copy. Plus the merged Smart Optimize page, the new Menu home and your PC specs at the top. Existing customers keep their license.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

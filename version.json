@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5",
-  "notes": "تحديث 1.1.5: صفحة «التحسين الذكي» واحدة فقط ومتاحة للجميع (المستخدم المجاني يحصل على التحسينات المجانية فقط)، إزالة التحسينات المتقاعدة من الواجهة، دليل البايوس بصيغة HTML مع رمز QR للهاتف، وإخفاء معرفات خطط الطاقة. + Update 1.1.5: one merged Smart Optimize page for everyone (free users get the free tweaks only), retired tweaks are never shown, the BIOS guide is HTML with a QR code for your phone, and power-plan IDs are hidden. Existing customers keep their license.",
+  "version": "1.1.6",
+  "notes": "تحديث 1.1.6: واجهة جديدة بالكامل: قائمة رئيسية بمربعات كبيرة بتصميم أزرق هادئ تنقلك إلى كل قسم بدل القائمة الجانبية، مع زر «القائمة» للرجوع من أي صفحة، وأرقام المعالج والرام والكرت الحية في الأعلى. + Update 1.1.6: a new launcher home with big calm blue tiles that take you to each section instead of the sidebar, a Menu button to go back from any page, and live CPU, RAM and GPU readings at the top. Existing customers keep their license.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

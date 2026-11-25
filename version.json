@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
-  "notes": "تحديث 1.1.4: صفحة «قبل وبعد» تعرض التحسن أو «لا تغيير» فقط بدون أي نتائج سالبة، والشعار أصبح دائرياً في كل التطبيق. + Update 1.1.4: Before & After now shows only improvements or no change (never negative results), and the logo is a circle everywhere. Existing customers keep their license.",
+  "version": "1.1.5",
+  "notes": "تحديث 1.1.5: صفحة «التحسين الذكي» واحدة فقط ومتاحة للجميع (المستخدم المجاني يحصل على التحسينات المجانية فقط)، إزالة التحسينات المتقاعدة من الواجهة، دليل البايوس بصيغة HTML مع رمز QR للهاتف، وإخفاء معرفات خطط الطاقة. + Update 1.1.5: one merged Smart Optimize page for everyone (free users get the free tweaks only), retired tweaks are never shown, the BIOS guide is HTML with a QR code for your phone, and power-plan IDs are hidden. Existing customers keep their license.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

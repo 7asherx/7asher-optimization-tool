@@ -1,5 +1,5 @@
 {
-  "version": "1.1.14",
-  "notes": "تحديث 1.1.14: «الإعداد الموجّه» جديد: 15 خطوة مرقّمة بالترتيب مع أيقونات في الأعلى تنقلك لأي قسم وزر التالي، وفي النهاية تختار إعادة التشغيل أو إعادة التشغيل إلى البايوس. القائمة الرئيسية صارت مرتبة بالأرقام، وصفحة حذف التطبيقات ومتجر ويندوز تعرض أيقونات التطبيقات الحقيقية. + Update 1.1.14: new Guided Setup with 15 numbered steps in order, a top icon bar to jump to any section, a Next button, and at the end a choice to Restart or Restart into BIOS. The main menu is now numbered in order, and the Debloat and Store apps lists show real app icons. Existing customers keep their license.",
+  "version": "1.1.15",
+  "notes": "تحديث 1.1.15: إصلاح شريط «الإعداد الموجّه» الذي كان يزيح الصفحة جانباً، وتصميم متمركز بالكامل، وتخطيط مرن يتكيّف مع أي حجم للنافذة (من الصغير إلى الشاشات الكبيرة جداً) بشكل نظيف. + Update 1.1.15: fixed the Guided Setup bar that shifted the page sideways, a fully centered design, and a flexible layout that stays clean at any window size, from small windows to ultra-wide screens. Existing customers keep their license.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

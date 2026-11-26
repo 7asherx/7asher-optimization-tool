@@ -1,5 +1,5 @@
 {
-  "version": "1.1.16",
-  "notes": "تحديث 1.1.16: كل شاشات التحميل صارت متحركة بحلقة مضيئة، وحركات انسيابية فاخرة في كل التطبيق (انتقالات بين خطوات الإعداد الموجّه، لمعان على البطاقات، أزرار متوهجة). + Update 1.1.16: every loading screen is now animated with a glowing ring, plus premium motion throughout the app (slide transitions between Guided Setup steps, shine on tiles, glowing buttons). Existing customers keep their license.",
+  "version": "1.1.17",
+  "notes": "تحديث 1.1.17: تمت إزالة تحسين «TCP delayed-ACK» لأنه قد يبطّئ سرعة الإنترنت. إذا كنت قد طبّقته (أو تحسين إيقاف الضبط التلقائي لـ TCP) سيظهر لك تنبيه مع زر «أرجِعه الآن» لإرجاع سرعتك الطبيعية. + Update 1.1.17: removed the TCP delayed-ACK tweak because it can slow your internet. If you applied it (or the TCP auto-tuning-off tweak), the app now shows a notice with a one-click Revert button to bring your normal speed back. Existing customers keep their license.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

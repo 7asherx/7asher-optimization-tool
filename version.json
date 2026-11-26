@@ -1,5 +1,5 @@
 {
-  "version": "1.1.12",
-  "notes": "تحديث 1.1.12: قسم «إعدادات الألعاب» صار فيه 134 لعبة من أشهر ألعاب تويتش الآن مع أغلفة بجودة عالية، وزر رجوع بسهم بدل زر القائمة، ومؤشر ماوس أزرق وحركات انسيابية في كل التطبيق، والبرامج التي تثبتها من التطبيق تفتح تلقائياً بعد التثبيت. + Update 1.1.12: Game Settings now covers 134 of the top games on Twitch with high-quality covers, a back arrow instead of the Menu button, a blue mouse cursor and smooth animations everywhere, and apps you install from the tool open automatically afterwards. Existing customers keep their license.",
+  "version": "1.1.14",
+  "notes": "تحديث 1.1.14: «الإعداد الموجّه» جديد: 15 خطوة مرقّمة بالترتيب مع أيقونات في الأعلى تنقلك لأي قسم وزر التالي، وفي النهاية تختار إعادة التشغيل أو إعادة التشغيل إلى البايوس. القائمة الرئيسية صارت مرتبة بالأرقام، وصفحة حذف التطبيقات ومتجر ويندوز تعرض أيقونات التطبيقات الحقيقية. + Update 1.1.14: new Guided Setup with 15 numbered steps in order, a top icon bar to jump to any section, a Next button, and at the end a choice to Restart or Restart into BIOS. The main menu is now numbered in order, and the Debloat and Store apps lists show real app icons. Existing customers keep their license.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

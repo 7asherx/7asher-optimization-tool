@@ -1,5 +1,5 @@
 {
-  "version": "1.1.15",
-  "notes": "تحديث 1.1.15: إصلاح شريط «الإعداد الموجّه» الذي كان يزيح الصفحة جانباً، وتصميم متمركز بالكامل، وتخطيط مرن يتكيّف مع أي حجم للنافذة (من الصغير إلى الشاشات الكبيرة جداً) بشكل نظيف. + Update 1.1.15: fixed the Guided Setup bar that shifted the page sideways, a fully centered design, and a flexible layout that stays clean at any window size, from small windows to ultra-wide screens. Existing customers keep their license.",
+  "version": "1.1.16",
+  "notes": "تحديث 1.1.16: كل شاشات التحميل صارت متحركة بحلقة مضيئة، وحركات انسيابية فاخرة في كل التطبيق (انتقالات بين خطوات الإعداد الموجّه، لمعان على البطاقات، أزرار متوهجة). + Update 1.1.16: every loading screen is now animated with a glowing ring, plus premium motion throughout the app (slide transitions between Guided Setup steps, shine on tiles, glowing buttons). Existing customers keep their license.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

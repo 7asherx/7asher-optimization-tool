@@ -1,5 +1,5 @@
 {
-  "version": "1.1.17",
-  "notes": "تحديث 1.1.17: تمت إزالة تحسين «TCP delayed-ACK» لأنه قد يبطّئ سرعة الإنترنت. إذا كنت قد طبّقته (أو تحسين إيقاف الضبط التلقائي لـ TCP) سيظهر لك تنبيه مع زر «أرجِعه الآن» لإرجاع سرعتك الطبيعية. + Update 1.1.17: removed the TCP delayed-ACK tweak because it can slow your internet. If you applied it (or the TCP auto-tuning-off tweak), the app now shows a notice with a one-click Revert button to bring your normal speed back. Existing customers keep their license.",
+  "version": "1.1.18",
+  "notes": "تحديث 1.1.18: إصلاح في «الإعداد الموجّه»: أزرار الإجراءات في أسفل الصفحات (مثل «حذف المحدد») كانت مخفية خلف شريط التالي/السابق، وصارت الآن ظاهرة بالكامل. + Update 1.1.18: Guided Setup fix: the action buttons at the bottom of pages (like Uninstall selected) were hidden behind the Back/Next bar and are now fully visible. Existing customers keep their license.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

@@ -1,5 +1,5 @@
 {
-  "version": "1.1.20",
-  "notes": "تحديث 1.1.20: التطبيق صار أقرب للعرب: الأزرار والرسائل والأوصاف بالعربية أولاً (أسماء التبويبات والتحسينات بقيت إنجليزية). وفي «الوضع السهل» كل سؤال معه شرح بالعربي ومثال ورسمة توضيحية. + Update 1.1.20: Arabic-first app (buttons, messages and descriptions lead in Arabic; tab and tweak names stay English). Easy Mode now explains every question with an Arabic description, an example and a graphic. Existing customers keep their license.",
+  "version": "1.1.21",
+  "notes": "تحديث 1.1.21: في «الوضع السهل» صارت الإجابات صناديق كبيرة تشرح ماذا سيحدث لو اخترتها، مع رسومات متحركة، وينتقل التطبيق للسؤال التالي بمجرد الاختيار، وفي الأسفل زرّا «السابق» و«التالي». + Update 1.1.21: Easy Mode answers are now big boxes that show what will happen if you pick them, with animated drawings. Picking a box moves to the next question, and Back/Next buttons sit below. Existing customers keep their license.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

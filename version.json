@@ -1,5 +1,5 @@
 {
-  "version": "1.1.21",
-  "notes": "تحديث 1.1.21: في «الوضع السهل» صارت الإجابات صناديق كبيرة تشرح ماذا سيحدث لو اخترتها، مع رسومات متحركة، وينتقل التطبيق للسؤال التالي بمجرد الاختيار، وفي الأسفل زرّا «السابق» و«التالي». + Update 1.1.21: Easy Mode answers are now big boxes that show what will happen if you pick them, with animated drawings. Picking a box moves to the next question, and Back/Next buttons sit below. Existing customers keep their license.",
+  "version": "1.1.23",
+  "notes": "تحديث 1.1.23: إزالة أي تعديل يمس بطاقة الواي فاي أو إعدادات اتصالها (Gaming network adapter settings وDisable network adapter power saving وTurn off automatic Wi-Fi network sharing)، وإرجاعها تلقائياً لمن طبّقها سابقاً، و«الوضع السهل» لا يغيّر الواي فاي أبداً. + تحديث أمتن: يُثبَّت التحديث داخل مجلد البرنامج نفسه ويُسجَّل في ملف سجل. + Update 1.1.23: removed every tweak that touches the Wi-Fi adapter or its connection settings (quietly reverted for anyone who applied them), Easy Mode never edits Wi-Fi, and a more reliable auto-update that installs into the app's own folder and writes a log. If the update popup keeps showing, install this version once by hand.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

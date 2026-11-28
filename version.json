@@ -1,5 +1,5 @@
 {
-  "version": "1.1.19",
-  "notes": "تحديث 1.1.19: «الوضع السهل» الجديد: 27 سؤالاً بالعربي والإنجليزي عن جهازك واستخدامك (الألعاب، الإنترنت، السرعة، الخصوصية، التنظيف)، وبناءً على إجاباتك يحسّن التطبيق جهازك بإعدادات مخصصة مع نقطة استعادة وزر تراجع. «الإعداد الموجّه» ما زال موجوداً. + Update 1.1.19: new Easy Mode: 27 questions in Arabic and English about your PC and how you use it (gaming, internet, speed, privacy, clean-up). Based on your answers the app optimizes your PC with settings made for you, with a restore point and an Undo button. Guided Setup is still there. Existing customers keep their license.",
+  "version": "1.1.20",
+  "notes": "تحديث 1.1.20: التطبيق صار أقرب للعرب: الأزرار والرسائل والأوصاف بالعربية أولاً (أسماء التبويبات والتحسينات بقيت إنجليزية). وفي «الوضع السهل» كل سؤال معه شرح بالعربي ومثال ورسمة توضيحية. + Update 1.1.20: Arabic-first app (buttons, messages and descriptions lead in Arabic; tab and tweak names stay English). Easy Mode now explains every question with an Arabic description, an example and a graphic. Existing customers keep their license.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }

@@ -1,5 +1,5 @@
 {
-  "version": "1.1.18",
-  "notes": "تحديث 1.1.18: إصلاح في «الإعداد الموجّه»: أزرار الإجراءات في أسفل الصفحات (مثل «حذف المحدد») كانت مخفية خلف شريط التالي/السابق، وصارت الآن ظاهرة بالكامل. + Update 1.1.18: Guided Setup fix: the action buttons at the bottom of pages (like Uninstall selected) were hidden behind the Back/Next bar and are now fully visible. Existing customers keep their license.",
+  "version": "1.1.19",
+  "notes": "تحديث 1.1.19: «الوضع السهل» الجديد: 27 سؤالاً بالعربي والإنجليزي عن جهازك واستخدامك (الألعاب، الإنترنت، السرعة، الخصوصية، التنظيف)، وبناءً على إجاباتك يحسّن التطبيق جهازك بإعدادات مخصصة مع نقطة استعادة وزر تراجع. «الإعداد الموجّه» ما زال موجوداً. + Update 1.1.19: new Easy Mode: 27 questions in Arabic and English about your PC and how you use it (gaming, internet, speed, privacy, clean-up). Based on your answers the app optimizes your PC with settings made for you, with a restore point and an Undo button. Guided Setup is still there. Existing customers keep their license.",
   "url": "https://github.com/7asherx/7asher-optimization-tool/raw/main/7asher-Optimization-Tool-Setup.exe"
 }
